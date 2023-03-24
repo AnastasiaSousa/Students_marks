@@ -1,4 +1,4 @@
-*/---------------------------------------------------------------------------------------
+/*---------------------------------------------------------------------------------------
 *****Students_marks*****
 The program reads students' marks and then executes 10 different operations with them:
 
@@ -12,4 +12,6 @@ The program reads students' marks and then executes 10 different operations with
 8. Average mark;
 9. List all marks above average;
 10. Negative marks
------------------------------------------------------------------------------------------/*
+
+14-02-2023, Anastasiya Sousa
+-----------------------------------------------------------------------------------------*/
